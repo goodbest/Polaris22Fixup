@@ -263,7 +263,7 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
-* Begin PBXShellScriptBuildPhase section */
+/* Begin PBXShellScriptBuildPhase section */
 		CE5356961FB9BD050051346D /* Archive */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
